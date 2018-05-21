@@ -8,26 +8,20 @@ http://rblog.2018.teamrois.cn
 
 Then on the URL:
 
+```
 rBlog 2018
-
 Title: [input]
-
 Content: [textarea]
-
 Style: [dropdown]
-
 Image: [file-selector]
 
 About rBlog 2018
-
 Store your secrets here but don't do evil things
 
 Report Abuse
-
 Report to admin who is using latest version of Chrome Stable
-
 Report: /blog.php [input]
-
+```
 
 ## Tools Used
 
